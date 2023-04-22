@@ -7,3 +7,5 @@
 И скрипт для отправки в кафку 2 сообщений message и error
 
 Авито 7 лабораторная на КАФКУ
+
+https://github.com/Bojechko/KafkaConsumer - консьюмер
